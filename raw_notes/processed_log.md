@@ -7,3 +7,4 @@
 | 1.3 Supervised ML.md | ✅ использован | notes/1.3 Supervised ML.md | 2026-04-19 |
 | 1.4 CRISP-DM.md | ✅ использован | notes/1.4 CRISP-DM.md | 2026-04-19 |
 | 1.5 Modelling step: model selection.md | ✅ использован | notes/1.5 Modelling step: model selection.md | 2026-04-19 |
+| 1.7 introduction to numpy.ipynb | ✅ использован | notes/1.7 Introduction to NumPy.md | 2026-04-20 |

@@ -10,3 +10,4 @@
 | 1.3 Supervised ML.md | 📋 не прочитано | 2026-04-19 | — |
 | 1.4 CRISP-DM.md | 📋 не прочитано | 2026-04-19 | — |
 | 1.5 Modelling step: model selection.md | 📋 не прочитано | 2026-04-19 | — |
+| 1.7 Introduction to NumPy.md | 📋 не прочитано | 2026-04-20 | — |
