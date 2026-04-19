@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "356cb30fad1f0b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05423f62a2f9add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d5230b1c19a159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/1.3 Supervised ML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 Supervised ML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bebc364c44efa88",
+    "type": "split",
+    "children": [
+      {
+        "id": "7886359dbee55b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca2ba37cc9e09d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "5f9fa283c1ea6671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5a7965b824306799",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43a4634892cbdf4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a866e529907bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9b09b248b3cce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/1.3 Supervised ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1.3 Supervised ML"
+            }
+          },
+          {
+            "id": "a10101722bbebde4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/1.3 Supervised ML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 1.3 Supervised ML"
+            }
+          },
+          {
+            "id": "7918d93de0f99815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a7a5a99e78649745",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "9d21690167c6e1a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/1.3 Supervised ML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 1.3 Supervised ML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "90d5230b1c19a159",
+  "lastOpenFiles": [
+    "notes/1.5 Modelling step: model selection.md",
+    "raw_notes/1.5 Modelling step: model selection.md",
+    "raw_notes/1.5 Modelling s",
+    "raw_notes/1.5 ",
+    "notes/1.4 CRISP-DM.md",
+    "raw_notes/1.4 CRISP-DM.md",
+    "1.1 Введение в машинное обучение.md",
+    "notes/1.3 Supervised ML.md",
+    "notes/1.1 Introduction to ML.md",
+    "Features и Target.md",
+    "raw_notes/1.2 ML vs Rule-Based system.md",
+    "raw_notes/1.3 Supervised ML.md",
+    "notes/1.2 ML vs Rule-Based system.md",
+    "CLAUDE.md",
+    "raw_notes/image-3.png",
+    "raw_notes/image-2.png",
+    "raw_notes/image-1.png",
+    "raw_notes/image.png",
+    "notes/reading_log.md",
+    "raw_notes/1.2",
+    "raw_notes/processed_log.md",
+    "notes",
+    "raw_notes/1.1 introduction.md",
+    "raw_notes/0.1 introduction.md",
+    "raw_notes/introduction.md",
+    "raw_notes"
+  ]
+}
