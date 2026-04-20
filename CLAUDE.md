@@ -9,17 +9,20 @@ Obsidian vault для изучения Machine Learning. Содержит сыр
 ## Структура
 
 ```
-raw_notes/         # Сырые заметки — черновики, конспекты, изображения
-notes/             # Обработанные заметки для Obsidian (читаемый финальный вид)
-raw_notes/processed_log.md   # Какие raw_notes уже превращены в notes/
-notes/reading_log.md         # Какие notes/ прочитаны пользователем
+raw_notes/                    # Сырые заметки — черновики, конспекты, изображения
+notes/
+  ml-fundamentals/            # Основы ML: концепции, методологии (1.1–1.5)
+  python-tools/               # Инструменты Python: NumPy, Pandas, линейная алгебра (1.7–1.9)
+raw_notes/processed_log.md    # Какие raw_notes уже превращены в notes/
+notes/reading_log.md          # Какие notes/ прочитаны пользователем
 ```
 
 ## Workflow: превращение сырых заметок в Obsidian-заметки
 
 1. Прочитать файл из `raw_notes/`
-2. Создать обработанную заметку в `notes/` — тот же номер и название, но с форматированием Obsidian
-3. Обновить оба лога: `raw_notes/processed_log.md` и `notes/reading_log.md`
+2. Определить тематику и выбрать целевую директорию: `notes/ml-fundamentals/` или `notes/python-tools/`
+3. Создать обработанную заметку — тот же номер и название, но с форматированием Obsidian
+4. Обновить оба лога: `raw_notes/processed_log.md` и `notes/reading_log.md`
 
 ## Формат заметок в `notes/`
 
@@ -47,6 +50,6 @@ source: raw_notes/<исходный файл>
 
 | Файл | Статус | Создана заметка | Дата |
 |---|---|---|---|
-| имя файла | ✅ использован | notes/имя заметки | дата |
+| имя файла | ✅ использован | notes/&lt;директория&gt;/имя заметки | дата |
 
 **`notes/reading_log.md`** — добавлять запись со статусом `📋 не прочитано` при создании каждой новой заметки.
